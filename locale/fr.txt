@@ -22,4 +22,5 @@ panorama_D54F0F72_DEC5_B74F_41E8_5CC42ACBBFEC.label = Jardin
 ## Action
 
 ### URL
-LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
