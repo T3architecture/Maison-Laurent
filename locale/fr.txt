@@ -1,0 +1,25 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Maison à Briançcon
+
+## Skin
+
+### Label
+label4056.text = Maison à Briançon
+
+## Media
+
+### Title
+panorama_D450696D_DEC5_FB55_41EA_3011F29342CD.label = Salon
+panorama_D45D8E8D_DEC5_99D5_41DA_030EDC0A8D03.label = Salle à manger
+panorama_D54F0F72_DEC5_B74F_41E8_5CC42ACBBFEC.label = Jardin
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
